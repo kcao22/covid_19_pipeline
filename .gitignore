@@ -133,3 +133,7 @@ cluster.config
 
 #VSCode
 .vscode
+
+#Files with access information
+*.csv
+*.xlsx
