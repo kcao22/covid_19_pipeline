@@ -130,10 +130,8 @@ dmypy.json
 
 # AWS
 cluster.config
+credentials.config
+*.config
 
 #VSCode
 .vscode
-
-#Files with access information
-*.csv
-*.xlsx
