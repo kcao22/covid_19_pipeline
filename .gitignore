@@ -135,3 +135,7 @@ credentials.config
 
 #VSCode
 .vscode
+
+#Excel, CSV
+*.xlsx
+*.csv
