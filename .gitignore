@@ -136,6 +136,7 @@ credentials.config
 #VSCode
 .vscode
 
-#Excel, CSV
+#Excel, CSV, PySpark Outputs
 *.xlsx
 *.csv
+*.crc
